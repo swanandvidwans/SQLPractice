@@ -12,3 +12,17 @@ Types of Redundency:
 1. Unintentional Redundency - Arises due to poor database design, where the same data point appears across various tables or within the same table multiple times.
 2. Intentional Redundency - Used deliberately for certain scenarios. Like improving read performance, by replicating data in a way that reduces complex joins.
 
+Problems with Redundencies:
+1. Wasted Storage
+2. Data Inconsistency
+3. Increased Maintainance cost
+4. Decreased perofrmance
+
+Anomalies in Databases:
+1. Insertion Anomaly
+2. Update Anomaly
+3. Deleion Anomaly
+
+Types of Database Normal Forms:
+1NF, 2NF, 3NF, BCNF
+
