@@ -21,8 +21,11 @@ Problems with Redundencies:
 Anomalies in Databases:
 1. Insertion Anomaly
 2. Update Anomaly
-3. Deleion Anomaly
+3. Deletion Anomaly
 
 Types of Database Normal Forms:
 1NF, 2NF, 3NF, BCNF
 
+1 - Atomicity
+2 - No Partial Dependency
+3 - No Transitive Dependency
