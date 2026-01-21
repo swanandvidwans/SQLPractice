@@ -26,6 +26,13 @@ Anomalies in Databases:
 Types of Database Normal Forms:
 1NF, 2NF, 3NF, BCNF
 
-1 - Atomicity
-2 - No Partial Dependency
-3 - No Transitive Dependency
+1. Atomicity
+2. No Partial Dependency
+3. No Transitive Dependency
+
+Advantages of Normalized Databases:
+1. Reduction of Redundency
+2. Improved Data Integrity and Consistency
+3. Efficient Data Storage
+4. Enhanced Query Performance
+5. Better Data Scalability
